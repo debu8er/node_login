@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Authentication System via node js and postgresql",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "dotenv": "^16.5.0",
@@ -20,5 +20,13 @@
     "passport": "^0.7.0",
     "passport-local": "^1.0.0",
     "pg": "^8.14.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debu8er/node_login.git"
+  },
+  "bugs": {
+    "url": "https://github.com/debu8er/node_login/issues"
+  },
+  "homepage": "https://github.com/debu8er/node_login#readme"
 }
