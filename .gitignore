@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# Log files
+*.log
+
+# macOS-specific files
+.DS_Store
+
+# npm and yarn lock files
+package-lock.json
+yarn.lock
